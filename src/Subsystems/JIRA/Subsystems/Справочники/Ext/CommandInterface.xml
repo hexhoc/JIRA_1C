@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<CommandsVisibility>
+		<Command name="0:9b99d64f-ad02-4ab1-8f84-b4b421c2e4d6">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_ГруппаОтветственных.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_Задачи.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_КатегорииСтатусов.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_Приоритеты.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_Проекты.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_Статусы.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_ТипЗапроса.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_ТипыСвязейЗадач.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.JIRA_ШаблоныЗапросов.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="c4b34e10-9470-4fb3-9aab-d065fa0f52a8">true</xr:Value>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsOrder>
+		<Command name="0:9b99d64f-ad02-4ab1-8f84-b4b421c2e4d6">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_ГруппаОтветственных.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_Задачи.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_КатегорииСтатусов.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_Приоритеты.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_Проекты.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_Статусы.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_ТипЗапроса.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_ТипыСвязейЗадач.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Catalog.JIRA_ШаблоныЗапросов.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<GroupsOrder>
+		<Group>NavigationPanelOrdinary</Group>
+	</GroupsOrder>
+</CommandInterface>
