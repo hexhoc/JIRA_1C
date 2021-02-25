@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
-		<Metadata name="Catalog.JIRA_ГруппаОтветственных" id="df153c9b-9f28-4c75-a452-a8ac8ef7451b" configVersion="c1d900c7aa1e594faa74e17b434cee4500000000"/>
+		<Metadata name="Catalog.JIRA_ГруппаОтветственных" id="df153c9b-9f28-4c75-a452-a8ac8ef7451b" configVersion="9acb8c624bea1a4bb1ec195b72f2944600000000"/>
 		<Metadata name="Catalog.JIRA_ГруппаОтветственных.ManagerModule" id="df153c9b-9f28-4c75-a452-a8ac8ef7451b.3" configVersion="582856db56f5a14aa63e311fc7e5d1b300000000"/>
-		<Metadata name="Catalog.JIRA_Задачи" id="201f1b0f-ac81-4474-9923-078873d9f9e0" configVersion="52d09a181c99da4685412166e06c604d00000000">
+		<Metadata name="Catalog.JIRA_Задачи" id="201f1b0f-ac81-4474-9923-078873d9f9e0" configVersion="0dd306c3001fe34abac9b6036352417900000000">
 			<Metadata name="Catalog.JIRA_Задачи.Attribute.ДатаРешения" id="21c066be-27dd-4daa-b3eb-30cb5fc3c5a8"/>
 			<Metadata name="Catalog.JIRA_Задачи.Attribute.Описание" id="242460e3-3dd8-45e7-9e83-65c43423f6e2"/>
 			<Metadata name="Catalog.JIRA_Задачи.Attribute.ДатаСоздания" id="2d667bc3-d903-40e3-8972-1c5a3e4415b0"/>
@@ -30,38 +30,38 @@
 		</Metadata>
 		<Metadata name="Catalog.JIRA_Задачи.Form.ФормаСписка" id="9e98c1a4-1cf4-41ed-a137-69cb45df7e4c" configVersion="91b4b689cc7d9f4ea3a4b2430c4eb6e100000000"/>
 		<Metadata name="Catalog.JIRA_Задачи.Form.ФормаСписка.Form" id="9e98c1a4-1cf4-41ed-a137-69cb45df7e4c.0" configVersion="5557f28b6130f94c89373013afcb81e900000000"/>
-		<Metadata name="Catalog.JIRA_Задачи.Form.ФормаЭлемента" id="059bab37-fb38-4c6a-ae7b-32560f50d222" configVersion="75fbfe5ce5feff47a5a579e8bd3b79fe00000000"/>
-		<Metadata name="Catalog.JIRA_Задачи.Form.ФормаЭлемента.Form" id="059bab37-fb38-4c6a-ae7b-32560f50d222.0" configVersion="ecfb52e2f6f43a42b965c39bc7bcc55800000000"/>
-		<Metadata name="Catalog.JIRA_Задачи.ManagerModule" id="201f1b0f-ac81-4474-9923-078873d9f9e0.3" configVersion="cdc2ff0bf185cd4f8f568e84c80af5b700000000"/>
-		<Metadata name="Catalog.JIRA_КатегорииСтатусов" id="7133feb4-ce51-4052-8261-941711a57514" configVersion="5e7f86b63f28cc439ea44d14cfcb78b500000000">
+		<Metadata name="Catalog.JIRA_Задачи.Form.ФормаЭлемента" id="059bab37-fb38-4c6a-ae7b-32560f50d222" configVersion="34a05d062e218444a983a667bc84570700000000"/>
+		<Metadata name="Catalog.JIRA_Задачи.Form.ФормаЭлемента.Form" id="059bab37-fb38-4c6a-ae7b-32560f50d222.0" configVersion="d5c67f7121b52f48bd22f87b39279e3a00000000"/>
+		<Metadata name="Catalog.JIRA_Задачи.ManagerModule" id="201f1b0f-ac81-4474-9923-078873d9f9e0.3" configVersion="fc736355859bef428b686a9117888d7600000000"/>
+		<Metadata name="Catalog.JIRA_КатегорииСтатусов" id="7133feb4-ce51-4052-8261-941711a57514" configVersion="3b3343727ea4d641bca39b2286799e5600000000">
 			<Metadata name="Catalog.JIRA_КатегорииСтатусов.Attribute.Ключ" id="5b78dd6c-fbad-4778-936f-66594bc2ed76"/>
 			<Metadata name="Catalog.JIRA_КатегорииСтатусов.Attribute.Описание" id="e9d38b5a-6bd7-46e9-8dac-0e844dde15a1"/>
 		</Metadata>
 		<Metadata name="Catalog.JIRA_КатегорииСтатусов.ManagerModule" id="7133feb4-ce51-4052-8261-941711a57514.3" configVersion="0cb1bc0e88e44f4ab7097f7758ba8a0100000000"/>
-		<Metadata name="Catalog.JIRA_Приоритеты" id="3d48c974-f543-4898-bdd1-d4dbaba4077f" configVersion="0af9cb98fb463b40a20451aa71e26d6100000000">
+		<Metadata name="Catalog.JIRA_Приоритеты" id="3d48c974-f543-4898-bdd1-d4dbaba4077f" configVersion="9d45bf3c677ea34e850fc9e470911b1600000000">
 			<Metadata name="Catalog.JIRA_Приоритеты.Attribute.Порядок" id="3db430a3-bc2c-4ad6-9997-b43535fa8928"/>
 		</Metadata>
 		<Metadata name="Catalog.JIRA_Приоритеты.ManagerModule" id="3d48c974-f543-4898-bdd1-d4dbaba4077f.3" configVersion="4ec30ec1210d76499826653c24488db000000000"/>
-		<Metadata name="Catalog.JIRA_Проекты" id="84846afa-7d97-42cf-b347-fa686d85ba3c" configVersion="69d6d3dc437a754dbdd981197b595a2f00000000">
+		<Metadata name="Catalog.JIRA_Проекты" id="84846afa-7d97-42cf-b347-fa686d85ba3c" configVersion="eb11ba717e36ca4d89571bafeec048b500000000">
 			<Metadata name="Catalog.JIRA_Проекты.Attribute.Ключ" id="2546e56c-8cb4-4caf-a31c-d7c704b1db93"/>
 		</Metadata>
 		<Metadata name="Catalog.JIRA_Проекты.ManagerModule" id="84846afa-7d97-42cf-b347-fa686d85ba3c.3" configVersion="e89992f01405c84aaa55c3646660089b00000000"/>
-		<Metadata name="Catalog.JIRA_Статусы" id="e6f15d88-c65a-439c-8dd0-6b6561af52fb" configVersion="1c79bc000ebb644482ef0eb4b8a913f200000000">
+		<Metadata name="Catalog.JIRA_Статусы" id="e6f15d88-c65a-439c-8dd0-6b6561af52fb" configVersion="89a85ae978f34a439f79b33a6af3893300000000">
 			<Metadata name="Catalog.JIRA_Статусы.Attribute.КатегорияСтатуса" id="74f31e69-f31a-4d7e-a377-64600a16b7fb"/>
 			<Metadata name="Catalog.JIRA_Статусы.Attribute.Описание" id="c0a22114-8f65-41fa-a5c1-8ac48a9f2553"/>
 		</Metadata>
 		<Metadata name="Catalog.JIRA_Статусы.ManagerModule" id="e6f15d88-c65a-439c-8dd0-6b6561af52fb.3" configVersion="548c1dbe4f9c3745becabcb63b1b86b900000000"/>
-		<Metadata name="Catalog.JIRA_ТипЗапроса" id="6b878d3b-c306-4f8d-830e-f80523c75465" configVersion="71c08a140c880a48a0788d42d1e4688e00000000">
+		<Metadata name="Catalog.JIRA_ТипЗапроса" id="6b878d3b-c306-4f8d-830e-f80523c75465" configVersion="81e63d2c7eaa4f43b70cebc64215185700000000">
 			<Metadata name="Catalog.JIRA_ТипЗапроса.Attribute.Подзадача" id="6aee867f-7acd-4c76-978c-c8f1f185abe9"/>
 			<Metadata name="Catalog.JIRA_ТипЗапроса.Attribute.Описание" id="fcb79c89-b567-4fd6-9818-d87d01243573"/>
 		</Metadata>
 		<Metadata name="Catalog.JIRA_ТипЗапроса.ManagerModule" id="6b878d3b-c306-4f8d-830e-f80523c75465.3" configVersion="052b3c0a1244714a849f7480f5f7002700000000"/>
-		<Metadata name="Catalog.JIRA_ТипыСвязейЗадач" id="c76aca87-2140-4b16-8709-a8393765786d" configVersion="0377a76e26b20a42acde3ccdb91986fa00000000">
+		<Metadata name="Catalog.JIRA_ТипыСвязейЗадач" id="c76aca87-2140-4b16-8709-a8393765786d" configVersion="a34958cca05c0c43bbb4d358f1c0681000000000">
 			<Metadata name="Catalog.JIRA_ТипыСвязейЗадач.Attribute.Внутри" id="5562adbf-bc56-4f3c-8e36-e38d67dab34d"/>
 			<Metadata name="Catalog.JIRA_ТипыСвязейЗадач.Attribute.Снаружи" id="949ede30-c01d-4f93-976d-5598c2f9ae2b"/>
 		</Metadata>
 		<Metadata name="Catalog.JIRA_ТипыСвязейЗадач.ManagerModule" id="c76aca87-2140-4b16-8709-a8393765786d.3" configVersion="68d7ab81e9a11546a23f3af42918672500000000"/>
-		<Metadata name="Catalog.JIRA_ШаблоныЗапросов" id="3fda7e9c-6576-4bc1-8443-7955a94bd357" configVersion="dec5e900c3b2b14dbc33bdfc5af3683900000000">
+		<Metadata name="Catalog.JIRA_ШаблоныЗапросов" id="3fda7e9c-6576-4bc1-8443-7955a94bd357" configVersion="8c5857dc3c159b46b26d48a23831f09400000000">
 			<Metadata name="Catalog.JIRA_ШаблоныЗапросов.Attribute.JQLЗапрос" id="a0ededee-308b-4bc5-b6ab-fca2174a42a3"/>
 		</Metadata>
 		<Metadata name="Catalog.Пользователи" id="57d93c92-e6c7-4664-b393-ff864e7c8f19" configVersion="009492262e94f04a93b2ce526950576200000000">
@@ -80,24 +80,25 @@
 		<Metadata name="Catalog.Сотрудники.ManagerModule" id="d74117d5-7301-41d1-a121-abf74f1a1f5b.3" configVersion="8ad2610efb40bb4ab8d1b19f0fed8cdb00000000"/>
 		<Metadata name="CommonCommand.JIRA_НастройкаРаботы" id="b8321597-16d1-4caf-b5a1-6572964da5bf" configVersion="26af04a64474894eafe33502ee4752b600000000"/>
 		<Metadata name="CommonCommand.JIRA_НастройкаРаботы.CommandModule" id="b8321597-16d1-4caf-b5a1-6572964da5bf.2" configVersion="48987eed0a92a941ab041542a3d7011c00000000"/>
-		<Metadata name="CommonModule.JIRA_ВзаимодействиеC_JIRA_КлиентСервер" id="2f06da31-efeb-4fc1-ade7-c2bfcf66d22e" configVersion="573446dd8041d142b281d7b5161ee90c00000000"/>
-		<Metadata name="CommonModule.JIRA_ВзаимодействиеC_JIRA_КлиентСервер.Module" id="2f06da31-efeb-4fc1-ade7-c2bfcf66d22e.0" configVersion="b550afaeb94a404980987991e4ed47ea00000000"/>
-		<Metadata name="CommonModule.JIRA_ВзаимодействиеC_JIRA_Сервер" id="eb02cb9b-ad63-4c98-a931-4d97dba73354" configVersion="d1604a8b42d9d54e95fa58dc4d394b3e00000000"/>
-		<Metadata name="CommonModule.JIRA_ВзаимодействиеC_JIRA_Сервер.Module" id="eb02cb9b-ad63-4c98-a931-4d97dba73354.0" configVersion="e69e1b304823f3448b8f3e1fc625c85400000000"/>
+		<Metadata name="CommonModule.JIRA_ВзаимодействиеCJIRAКлиентСервер" id="2f06da31-efeb-4fc1-ade7-c2bfcf66d22e" configVersion="3979e8c6c7e907458fb55014f16be19100000000"/>
+		<Metadata name="CommonModule.JIRA_ВзаимодействиеCJIRAКлиентСервер.Module" id="2f06da31-efeb-4fc1-ade7-c2bfcf66d22e.0" configVersion="9a5a9182ca72b842a7de7c267beac8d400000000"/>
+		<Metadata name="CommonModule.JIRA_ВзаимодействиеCJIRAСервер" id="eb02cb9b-ad63-4c98-a931-4d97dba73354" configVersion="4339ca5e69c90148bc4440fa22e344d800000000"/>
+		<Metadata name="CommonModule.JIRA_ВзаимодействиеCJIRAСервер.Module" id="eb02cb9b-ad63-4c98-a931-4d97dba73354.0" configVersion="36732ea34caf134f9828b8d8a0dc553700000000"/>
 		<Metadata name="CommonModule.JIRA_РегламентныеПроцедурыПривилегированный" id="3cc59e12-64c1-49ed-bc47-584e06cd00f4" configVersion="25826844d4ef7546a0854a4ca21dd25c00000000"/>
 		<Metadata name="CommonModule.JIRA_РегламентныеПроцедурыПривилегированный.Module" id="3cc59e12-64c1-49ed-bc47-584e06cd00f4.0" configVersion="7181be1c2cbc594aa5d300bde412855900000000"/>
 		<Metadata name="CommonPicture.ПодсистемаJIRA" id="0b9329e6-1fee-4bb3-a7c2-c5ade0b7d5c8" configVersion="49db11ca9d66fe4a82ac1b3f67b8b6e000000000"/>
 		<Metadata name="CommonPicture.ПодсистемаJIRA.Picture" id="0b9329e6-1fee-4bb3-a7c2-c5ade0b7d5c8.0" configVersion="f6ecceaac392234199bd0eb71901763700000000"/>
-		<Metadata name="Configuration.JIRA_1C" id="e2211bde-9fc2-4ed3-9cc4-a5d564cef477" configVersion="5ad8769d58be5945b388fc9da23ed77600000000"/>
-		<Metadata name="Constant.JIRA_JQLЗапросОбновленияДанных" id="f62b8726-6c66-48f5-b447-c2856f4fe4a9" configVersion="99844543bed59e439272cc7edd99cfd500000000"/>
-		<Metadata name="Constant.JIRA_ПринудительнаяЗагрузкаДанных" id="7b60cf6f-6e8f-482c-a125-ace845c758ef" configVersion="4008aa42ec98794daee0db22f1e0b8f200000000"/>
-		<Metadata name="DataProcessor.JIRA_ЗагрузкаДанныхПоЗапросу" id="18dc1005-6795-4661-a91b-f05a01d3ad17" configVersion="d440969445fb894cb4d819d379f3c07300000000">
+		<Metadata name="Configuration.JIRA_1C" id="e2211bde-9fc2-4ed3-9cc4-a5d564cef477" configVersion="eda45d8cee419748b2721a692afd706500000000"/>
+		<Metadata name="Configuration.JIRA_1C.ClientApplicationInterface" id="2b2bebe1-4464-46ad-a05c-2a03b046e11d.b" configVersion="8df3b915d0774246874a1df48c7550a000000000"/>
+		<Metadata name="Constant.JIRA_JQLЗапросОбновленияДанных" id="f62b8726-6c66-48f5-b447-c2856f4fe4a9" configVersion="8c1e508a0965e24490de3cf6da85925100000000"/>
+		<Metadata name="Constant.JIRA_ПринудительнаяЗагрузкаДанных" id="7b60cf6f-6e8f-482c-a125-ace845c758ef" configVersion="12246a8cad9e114196add56dd0e6d9e200000000"/>
+		<Metadata name="DataProcessor.JIRA_ЗагрузкаДанныхПоЗапросу" id="18dc1005-6795-4661-a91b-f05a01d3ad17" configVersion="5d88d47a66a6c649ab8885540ad4d18800000000">
 			<Metadata name="DataProcessor.JIRA_ЗагрузкаДанныхПоЗапросу.Attribute.JQLЗапрос" id="61747f8e-a1f1-4b17-bbad-723a6469552d"/>
 		</Metadata>
 		<Metadata name="DataProcessor.JIRA_ЗагрузкаДанныхПоЗапросу.Form.Форма" id="a64b96d3-f13a-4158-bdc1-37b6ae1fd8ae" configVersion="b41398f2472a2740b224bc7089afc6f200000000"/>
 		<Metadata name="DataProcessor.JIRA_ЗагрузкаДанныхПоЗапросу.Form.Форма.Form" id="a64b96d3-f13a-4158-bdc1-37b6ae1fd8ae.0" configVersion="1e1d854d6b838c4b8180a06ef12d035e00000000"/>
-		<Metadata name="DataProcessor.JIRA_ЗагрузкаДанныхПоЗапросу.ObjectModule" id="18dc1005-6795-4661-a91b-f05a01d3ad17.0" configVersion="d0b73216becf9d459e92e8c4580265c900000000"/>
-		<Metadata name="DataProcessor.JIRA_НастройкаРаботы" id="c711b453-d6b1-49ac-8caa-5f8c04fe2e16" configVersion="ca6a49812717094aa8abedf11321976000000000"/>
+		<Metadata name="DataProcessor.JIRA_ЗагрузкаДанныхПоЗапросу.ObjectModule" id="18dc1005-6795-4661-a91b-f05a01d3ad17.0" configVersion="77e7e12d85231349b62440987ab7b03600000000"/>
+		<Metadata name="DataProcessor.JIRA_НастройкаРаботы" id="c711b453-d6b1-49ac-8caa-5f8c04fe2e16" configVersion="3f3d5ca9d9eb4e4caa84defb1d615b7300000000"/>
 		<Metadata name="DataProcessor.JIRA_НастройкаРаботы.Form.Форма" id="31e64224-9137-4a63-90e6-1b57145f16d4" configVersion="36b04b2297d10346acfd75a046bcf62f00000000"/>
 		<Metadata name="DataProcessor.JIRA_НастройкаРаботы.Form.Форма.Form" id="31e64224-9137-4a63-90e6-1b57145f16d4.0" configVersion="e5a3d1da795ee6438346df967cb2496b00000000"/>
 		<Metadata name="DataProcessor.КонсольЗаданий" id="1a01d561-e2a3-4101-8923-164b10662cb3" configVersion="e2454a4ec7b1314eb2d03f971df5b4f600000000">
@@ -116,11 +117,11 @@
 		<Metadata name="DataProcessor.КонсольЗаданий.Form.Форма" id="666d4981-6ccb-43bd-b0c1-072a2dec6d2f" configVersion="7cd613a5a924ff44b412551753e8b0a700000000"/>
 		<Metadata name="DataProcessor.КонсольЗаданий.Form.Форма.Form" id="666d4981-6ccb-43bd-b0c1-072a2dec6d2f.0" configVersion="17cc601b309e2d49a719ef44fc653ea600000000"/>
 		<Metadata name="DataProcessor.КонсольЗаданий.ObjectModule" id="1a01d561-e2a3-4101-8923-164b10662cb3.0" configVersion="55846a43f73f9c429c34531fa02bb08400000000"/>
-		<Metadata name="Enum.JIRA_ОтношенияСвязиЗадач" id="bb362c47-bb39-49a4-9b3b-4fe08bd33138" configVersion="1d5e28161b689140989ed987b8d1efb700000000">
+		<Metadata name="Enum.JIRA_ОтношенияСвязиЗадач" id="bb362c47-bb39-49a4-9b3b-4fe08bd33138" configVersion="10295c8995f4a84992ff2c6ae6b92aad00000000">
 			<Metadata name="Enum.JIRA_ОтношенияСвязиЗадач.EnumValue.Внутренняя" id="10e6607e-4a86-4958-964b-58a15adcca4d"/>
 			<Metadata name="Enum.JIRA_ОтношенияСвязиЗадач.EnumValue.Внешняя" id="b5565357-68b8-4c97-8da0-f379132e241c"/>
 		</Metadata>
-		<Metadata name="Enum.JIRA_ТипыОбъектов" id="2069ce04-800a-4663-9e49-77fd3f8d4884" configVersion="e0aef0777ebdf4478135b38a1f153da500000000">
+		<Metadata name="Enum.JIRA_ТипыОбъектов" id="2069ce04-800a-4663-9e49-77fd3f8d4884" configVersion="cdedb294e535bb45b65fe67690a9992700000000">
 			<Metadata name="Enum.JIRA_ТипыОбъектов.EnumValue.Пользователь" id="45dae749-83a3-4822-8e65-969d4b5839d5"/>
 			<Metadata name="Enum.JIRA_ТипыОбъектов.EnumValue.КатегорияСтатуса" id="57c4453d-9bfa-4ef4-837c-101ecdb01919"/>
 			<Metadata name="Enum.JIRA_ТипыОбъектов.EnumValue.ТипЗапроса" id="5af58361-31c7-4d36-a1c0-a779613c3017"/>
@@ -130,7 +131,7 @@
 			<Metadata name="Enum.JIRA_ТипыОбъектов.EnumValue.Статус" id="8af1181b-973b-4630-83ee-7178032400bd"/>
 			<Metadata name="Enum.JIRA_ТипыОбъектов.EnumValue.Задача" id="fc59cc25-0672-47b3-b4da-2ccf9ddfe230"/>
 		</Metadata>
-		<Metadata name="InformationRegister.JIRA_ЖурналРабот" id="790845f1-c7af-4a83-b42c-2de1e20c02af" configVersion="f3b8f132d2408147b303d49f4a542b9400000000">
+		<Metadata name="InformationRegister.JIRA_ЖурналРабот" id="790845f1-c7af-4a83-b42c-2de1e20c02af" configVersion="ad9c748d715ffa4cb7abb6f3b6249d2e00000000">
 			<Metadata name="InformationRegister.JIRA_ЖурналРабот.Dimension.Задача" id="032a87a3-e6c5-48c4-97e1-bc30966278ce"/>
 			<Metadata name="InformationRegister.JIRA_ЖурналРабот.Resource.ЗатраченоВремени" id="2e99a9fe-13d1-4005-875f-2ed6c59100d4"/>
 			<Metadata name="InformationRegister.JIRA_ЖурналРабот.Dimension.ID" id="6ec82c76-8d60-4aef-968d-32597d409919"/>
@@ -140,14 +141,14 @@
 		</Metadata>
 		<Metadata name="InformationRegister.JIRA_ЖурналРабот.Form.ФормаСписка" id="47d6f9c9-40ae-416e-8573-e4523b9e08e7" configVersion="dab23331822f7647b427c607ef49f01700000000"/>
 		<Metadata name="InformationRegister.JIRA_ЖурналРабот.Form.ФормаСписка.Form" id="47d6f9c9-40ae-416e-8573-e4523b9e08e7.0" configVersion="2cdfa5ac5fc4b9459106aa1ff43b615600000000"/>
-		<Metadata name="InformationRegister.JIRA_ЗоныОтветственности" id="c8481045-1de4-4926-8259-a953dcb9d07c" configVersion="39dd1ea41b8db64a9c5cb7fe0b8fa56e00000000">
+		<Metadata name="InformationRegister.JIRA_ЗоныОтветственности" id="c8481045-1de4-4926-8259-a953dcb9d07c" configVersion="428584ed9dbfff4d9bb7c05043c42f9800000000">
 			<Metadata name="InformationRegister.JIRA_ЗоныОтветственности.Resource.Ответственный" id="04979884-3561-4d02-a18f-6e32c6801bf3"/>
 			<Metadata name="InformationRegister.JIRA_ЗоныОтветственности.Resource.Комментарий" id="23c8736a-d333-4f72-9a3e-1ac220c329dd"/>
 			<Metadata name="InformationRegister.JIRA_ЗоныОтветственности.Dimension.Сотрудник" id="56abe7cd-1942-42e2-abaa-4fb2863fdc3b"/>
 		</Metadata>
 		<Metadata name="InformationRegister.JIRA_ЗоныОтветственности.Form.ФормаСписка" id="995a753b-8f90-475e-aff8-609e3f95978d" configVersion="d7e11dcfbd66d84a81211d687fe9919700000000"/>
 		<Metadata name="InformationRegister.JIRA_ЗоныОтветственности.Form.ФормаСписка.Form" id="995a753b-8f90-475e-aff8-609e3f95978d.0" configVersion="5aa054bf5ce014429ce55aa595b802fb00000000"/>
-		<Metadata name="InformationRegister.JIRA_ИсторияИзмененияСтатусов" id="2daa8cd3-61e6-4fd5-9ae4-1f160f7d0256" configVersion="bf55dbf31cad4b43bd4a82a172772e9b00000000">
+		<Metadata name="InformationRegister.JIRA_ИсторияИзмененияСтатусов" id="2daa8cd3-61e6-4fd5-9ae4-1f160f7d0256" configVersion="d346aedcfe0f644b8050574c7cbadaa900000000">
 			<Metadata name="InformationRegister.JIRA_ИсторияИзмененияСтатусов.Dimension.Задача" id="286211ae-1588-45a1-bfd6-32871287a835"/>
 			<Metadata name="InformationRegister.JIRA_ИсторияИзмененияСтатусов.Resource.ИсходныйСтатус" id="43ccbd4c-9db4-4aa8-b526-9e9a01101804"/>
 			<Metadata name="InformationRegister.JIRA_ИсторияИзмененияСтатусов.Resource.МинутПробылВИсходномСтатусе" id="4d72dce0-73a1-4fb4-82ad-7cb21665d55b"/>
@@ -157,7 +158,7 @@
 			<Metadata name="InformationRegister.JIRA_ИсторияИзмененияСтатусов.Resource.КонечныйСтатус" id="f60397e6-2ff3-4c64-92a9-7caa7053756f"/>
 		</Metadata>
 		<Metadata name="InformationRegister.JIRA_ИсторияИзмененияСтатусов.ManagerModule" id="2daa8cd3-61e6-4fd5-9ae4-1f160f7d0256.2" configVersion="6252e1314e81d84cb5885f49be6216d100000000"/>
-		<Metadata name="InformationRegister.JIRA_ИсторияСостоянийЗадач" id="1ff01d15-79e2-45ab-bb18-f448b999b697" configVersion="22df3b5868c4d041a6b5ce72b2278bd700000000">
+		<Metadata name="InformationRegister.JIRA_ИсторияСостоянийЗадач" id="1ff01d15-79e2-45ab-bb18-f448b999b697" configVersion="e1f3849affe6b343bfd8bde17c5be6b300000000">
 			<Metadata name="InformationRegister.JIRA_ИсторияСостоянийЗадач.Resource.Метка" id="02fe247b-88f9-4f5d-bbe7-bc4026871f4f"/>
 			<Metadata name="InformationRegister.JIRA_ИсторияСостоянийЗадач.Resource.Автор" id="043a7387-0c3c-48cd-abb9-7057e447ee62"/>
 			<Metadata name="InformationRegister.JIRA_ИсторияСостоянийЗадач.Resource.Приоритет" id="2336e611-b8ef-42df-8585-a4e4212d6606"/>
@@ -174,7 +175,7 @@
 			<Metadata name="InformationRegister.JIRA_ИсторияСостоянийЗадач.Resource.ПлановаяДатаЗавершения" id="fcd0a49d-5e7b-4e13-8c69-041169f4c3c8"/>
 		</Metadata>
 		<Metadata name="InformationRegister.JIRA_ИсторияСостоянийЗадач.ManagerModule" id="1ff01d15-79e2-45ab-bb18-f448b999b697.2" configVersion="fe6311f01ffd60459c760eb6178b48f600000000"/>
-		<Metadata name="InformationRegister.JIRA_ПараметрыПодключения" id="116c3c2d-e87a-4b60-adef-88f170fd89f8" configVersion="d06e0be2755a8545a2cf86380c398f3700000000">
+		<Metadata name="InformationRegister.JIRA_ПараметрыПодключения" id="116c3c2d-e87a-4b60-adef-88f170fd89f8" configVersion="6f693a46b96a524da8e91f48efae692c00000000">
 			<Metadata name="InformationRegister.JIRA_ПараметрыПодключения.Dimension.Пользователь" id="3cb952d0-0920-4f1d-a8cf-dda3d9a29c85"/>
 			<Metadata name="InformationRegister.JIRA_ПараметрыПодключения.Dimension.АдресСервера" id="4595bc77-3f71-450a-b160-77b3f5d3c34b"/>
 			<Metadata name="InformationRegister.JIRA_ПараметрыПодключения.Dimension.Пароль" id="9c8e29c8-782c-41cd-98e5-b2c787d7d977"/>
@@ -183,30 +184,30 @@
 		<Metadata name="InformationRegister.JIRA_ПараметрыПодключения.Form.ФормаЗаписи" id="a2f05f21-f23e-420d-bfb5-e40744967506" configVersion="0f72c79cc4ab624cb663df780dc75b1600000000"/>
 		<Metadata name="InformationRegister.JIRA_ПараметрыПодключения.Form.ФормаЗаписи.Form" id="a2f05f21-f23e-420d-bfb5-e40744967506.0" configVersion="8b429eb1b65d5649bd1369f99ccf2f3300000000"/>
 		<Metadata name="Language.Русский" id="7ffd8bce-2bc3-4c7e-89e2-b8d3b66ac733" configVersion="de166c8004f45242933ffc9a8609e91b00000000"/>
-		<Metadata name="Report.JIRA_Дашборд" id="ca0e6047-f78e-453d-8142-ea932be34d74" configVersion="8795161d8636b04f9d766ce3327f590d00000000"/>
+		<Metadata name="Report.JIRA_Дашборд" id="ca0e6047-f78e-453d-8142-ea932be34d74" configVersion="124f7fcea577c648a0df838e6be6b9bb00000000"/>
 		<Metadata name="Report.JIRA_Дашборд.Form.ФормаОтчета" id="b4e9309d-f942-4989-9906-582b5257763c" configVersion="148005bb3f19c943afa53a7d751aac9e00000000"/>
 		<Metadata name="Report.JIRA_Дашборд.Form.ФормаОтчета.Form" id="b4e9309d-f942-4989-9906-582b5257763c.0" configVersion="533e2cf7f005b043b80c462aed6ad17b00000000"/>
-		<Metadata name="Report.JIRA_ДинамикаИзмененийСтатусаЗадач" id="968fb22d-cac3-4e55-acd7-6c5e4b0f317a" configVersion="d7c52e5b9310e0499481cd1abf7fa72a00000000"/>
+		<Metadata name="Report.JIRA_ДинамикаИзмененийСтатусаЗадач" id="968fb22d-cac3-4e55-acd7-6c5e4b0f317a" configVersion="d932c029c572ac4db981115d8ead5d5b00000000"/>
 		<Metadata name="Report.JIRA_ДинамикаИзмененийСтатусаЗадач.ObjectModule" id="968fb22d-cac3-4e55-acd7-6c5e4b0f317a.0" configVersion="6d016547a1389248b614a0d383d4d43400000000"/>
 		<Metadata name="Report.JIRA_ДинамикаИзмененийСтатусаЗадач.Template.ОсновнаяСхемаКомпоновкиДанных" id="aff7bd4d-d98c-46ba-8f63-8bf0345a539c" configVersion="130d4babbf90134d9429711b935bd9bf00000000"/>
 		<Metadata name="Report.JIRA_ДинамикаИзмененийСтатусаЗадач.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="aff7bd4d-d98c-46ba-8f63-8bf0345a539c.0" configVersion="bc0b1665e1cc064083a776bcb7e0876d00000000"/>
-		<Metadata name="Report.JIRA_ЖурналРабот" id="61490b7b-8724-4b86-9bda-3042dd6e9dd5" configVersion="e9a1044cd11fed45afe1d0eb31db29ed00000000"/>
+		<Metadata name="Report.JIRA_ЖурналРабот" id="61490b7b-8724-4b86-9bda-3042dd6e9dd5" configVersion="1f2b30cdc3a123429a19080486b913c200000000"/>
 		<Metadata name="Report.JIRA_ЖурналРабот.ObjectModule" id="61490b7b-8724-4b86-9bda-3042dd6e9dd5.0" configVersion="a12f584ba39d4c4dbb070d72afefa13100000000"/>
 		<Metadata name="Report.JIRA_ЖурналРабот.Template.ОсновнаяСхемаКомпоновкиДанных" id="f31b0b67-25b4-4e8b-825f-271d140a9d31" configVersion="f872701e745ee14db1c093104191654a00000000"/>
 		<Metadata name="Report.JIRA_ЖурналРабот.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f31b0b67-25b4-4e8b-825f-271d140a9d31.0" configVersion="45fd68823b22ac41a30b356798f314a500000000"/>
-		<Metadata name="Report.JIRA_ТекущиеЗадачиВРаботе" id="fc2693da-65e4-4999-88f4-0074e6127ddd" configVersion="9337e7d0507640429749330922d222a600000000"/>
+		<Metadata name="Report.JIRA_ТекущиеЗадачиВРаботе" id="fc2693da-65e4-4999-88f4-0074e6127ddd" configVersion="3653da0fc498574e89ea215bb4bb1a3500000000"/>
 		<Metadata name="Report.JIRA_ТекущиеЗадачиВРаботе.ObjectModule" id="fc2693da-65e4-4999-88f4-0074e6127ddd.0" configVersion="499581d06137c94180435713cd6342c200000000"/>
 		<Metadata name="Report.JIRA_ТекущиеЗадачиВРаботе.Template.ОсновнаяСхемаКомпоновкиДанных" id="47616811-d271-4e8a-99ff-1add725d0d1e" configVersion="7a316e64fdaecd498fa6d81486ca1b7900000000"/>
 		<Metadata name="Report.JIRA_ТекущиеЗадачиВРаботе.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="47616811-d271-4e8a-99ff-1add725d0d1e.0" configVersion="06abd3f493ab744aa7afb91e4499f06100000000"/>
-		<Metadata name="Report.JIRA_УчетТрудозатрат" id="76089c4e-cf3b-4e25-bae5-cad87ce28a4a" configVersion="39cf1e4d5ce0f544badedab0cca42af500000000">
+		<Metadata name="Report.JIRA_УчетТрудозатрат" id="76089c4e-cf3b-4e25-bae5-cad87ce28a4a" configVersion="0e21d233db0a3e47acc386b5a407f1f700000000">
 			<Metadata name="Report.JIRA_УчетТрудозатрат.Attribute.КлючВариантаНастроек" id="0ac3bf6e-cc66-4b70-930c-0ce77c9608f9"/>
 		</Metadata>
 		<Metadata name="Report.JIRA_УчетТрудозатрат.ObjectModule" id="76089c4e-cf3b-4e25-bae5-cad87ce28a4a.0" configVersion="8254731eab284049adae176c7cfedd2900000000"/>
 		<Metadata name="Report.JIRA_УчетТрудозатрат.Template.ОсновнаяСхемаКомпоновкиДанных" id="5e853aca-cd75-43cc-ad43-3d3940cb9db7" configVersion="766532a4f9d95c428b7360aff3f6c0ec00000000"/>
 		<Metadata name="Report.JIRA_УчетТрудозатрат.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5e853aca-cd75-43cc-ad43-3d3940cb9db7.0" configVersion="aa9f019fd038da49933c045c913e324900000000"/>
-		<Metadata name="Role.JIRA_ПолныйПросмотр" id="a623fbed-f005-4698-bfbc-6b2d1b2cedbd" configVersion="271d1d353183264bb873a55b11ec3c5c00000000"/>
+		<Metadata name="Role.JIRA_ПолныйПросмотр" id="a623fbed-f005-4698-bfbc-6b2d1b2cedbd" configVersion="5f4e512da872a44286466c5a509be11a00000000"/>
 		<Metadata name="Role.JIRA_ПолныйПросмотр.Rights" id="a623fbed-f005-4698-bfbc-6b2d1b2cedbd.0" configVersion="db364ecc53e2554b8bbcd3f01109057e00000000"/>
-		<Metadata name="ScheduledJob.JIRA_ОбновлениеДанных" id="0b6ebb42-76f0-4ee8-8fe0-ea35eff5cc06" configVersion="fcea39a115422f4390b34947ffd3b55700000000"/>
+		<Metadata name="ScheduledJob.JIRA_ОбновлениеДанных" id="0b6ebb42-76f0-4ee8-8fe0-ea35eff5cc06" configVersion="a7705213dc3982428688b07a2e27fb4700000000"/>
 		<Metadata name="Subsystem.JIRA" id="fdbb1a10-7c69-481d-8f53-a1f6cec5ddde" configVersion="b10f84adf254684ba94e51a7cee2c1de00000000"/>
 		<Metadata name="Subsystem.JIRA.Subsystem.Настройки" id="09a6de96-4934-40ea-8c7b-309402bea10d" configVersion="0bd49ab6faf83e4b92dff86991604aef00000000"/>
 		<Metadata name="Subsystem.JIRA.Subsystem.Настройки.CommandInterface" id="09a6de96-4934-40ea-8c7b-309402bea10d.1" configVersion="441e8e45257ae64d95fa44bc078314e800000000"/>
